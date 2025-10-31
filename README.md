@@ -32,7 +32,7 @@ Make sure you have Node.js (preferably latest LTS) and npm installed.
 
 ### Installation  
 ```bash
-git clone https://github.com/SynaptrixAsim/myTodo.git  
+git clone https://github.com/SynaptrixAsim/lsTodo.git
 cd myTodo  
 npm install  
 npm run dev
