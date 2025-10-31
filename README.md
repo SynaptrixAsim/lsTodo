@@ -1,4 +1,4 @@
-# myTodo
+# lsTodo
 
 A simple to-do list web application built with React and Vite.
 
